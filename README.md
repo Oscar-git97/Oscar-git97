@@ -2,8 +2,7 @@
 
 I am currently pursuing a Master's in Mechanical
 Engineering at TU Berlin, with a specialization in
-Computer-Aided Engineering (CAE) and software
-development.
+Computer-Aided Engineering (CAE).
 
 
 
