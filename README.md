@@ -5,14 +5,15 @@ Engineering at TU Berlin, with a specialization in
 Computer-Aided Engineering (CAE) and software
 development.
 
-Since I haven't been in the field of software development for too long I am still in the process of building up a portfolio.
 
-## Find me elsewhere 🌍
-visit my website: 
-  [oscar-oscar.de](oscar-oscar.de)
 
 <!--
 **Oscar-git97/Oscar-git97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Since I haven't been in the field of software development for too long I am still in the process of building up a portfolio.
+## Find me elsewhere 🌍
+visit my website: 
+  [oscar-oscar.de](oscar-oscar.de)
 
 Here are some ideas to get you started:
 
